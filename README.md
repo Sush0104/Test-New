@@ -5,3 +5,6 @@ Testing my first commit : 23:23
 
 FixBug V2 Changes: 
 Dairy Milk Dark Mint Flavour.
+
+FixBug V1 CHanges:
+By Lindt Truffles Coconut Caramel Flavour. From India.
